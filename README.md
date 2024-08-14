@@ -8,7 +8,7 @@ The dataset covers the morphological measures and fitness of Random Search and E
 * Gene Regulatory Networks (GRN) <br />
 * More Realistic GRN (mrGRN) <br />
 
-The related data can be found here: https://www.kaggle.com/datasets/nielsss999/master-thesis-data/data <br />
+The related data can be found here: (https://www.kaggle.com/datasets/julianap/cppn-and-grn-dataset-for-bachelor-thesis/data) <br />
 
 **Explanation of Code** <br />
 The encodings are in revolve2\ci_group\revolve2\ci_group\genotypes\cppnwin\modular_robot\v2\: <br />
